@@ -13,18 +13,6 @@ This app allows users to set study and break durations along with the number of 
 - Sound alerts for session changes.
 - Restart functionality after completing all rounds.
 
-## Screenshots
-
-Include screenshots here if applicable.
-
-## Installation
-
-Provide steps to install or use your app if applicable.
-
-## Usage
-
-Describe how to use your app and its main functionalities.
-
 ## Technologies Used
 
 - Kotlin
